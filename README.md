@@ -2,7 +2,7 @@
 This project was creating a data pipeline for the analysis of supply and demand around the holidays, along with conducting a preliminary analysis of the data
 I worked on this project from the DataCamp platform to meet the needs of a data engineering project portfolio.
 
-![Wallmart Retail](images/example.png)
+![Wallmart Retail](walmartecomm.jpg)
 
 
 ## Project Overview
